@@ -1,4 +1,4 @@
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](https://github.com/Dhavaputhalvi/Dhavaputhalvi/blob/main/FinalResume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](https://github.com/Dhavaputhalvi/Dhavaputhalvi/raw/main/FinalResume.pdf)
 
 ## Portfolio
 
