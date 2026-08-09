@@ -39,7 +39,7 @@
 **B.E. Computer Science Engineering**  
 Government College of Engineering, Srirangam  
 Expected Graduation: **2027**  
-**CGPA (Till 5th Semester): 8.71 / 10**
+**CGPA (Till 6th Semester): 8.75 / 10**
 
 ---
 
