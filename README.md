@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-🔗 **Portfolio Website:** [Visit My Portfolio](https://portfolio-final-60064325153.development.catalystserverless.in/app/index.html)
+ **Portfolio Website:** [Visit My Portfolio](https://portfolio-final-60064325153.development.catalystserverless.in/app/index.html)
 
 #  Welcome to My GitHub Profile
 
